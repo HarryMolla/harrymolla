@@ -1,4 +1,4 @@
-## 👋 Hi there, I’m Harry
+## 👋 Hi there, I’m Hiryakos Molla
 
 ### Frontend Developer | UI/UX Designer | Rive Specalist
 
