@@ -1,16 +1,48 @@
-## Hi there 👋
+## 👋 Hi there, I’m Harry
 
-<!--
-**HarryMolla/harrymolla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend Developer | UI/UX Designer | Rive Specalist
 
-Here are some ideas to get you started:
+🚀 Passionate about crafting **intuitive, high-performance web experiences** that blend clean design with elegant code.
+I specialize in building **scalable, responsive applications** using **React.js**, **Next.js**, and modern front-end ecosystems — always with a strong eye for **user experience and visual detail**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 What I Do
+
+* 🎨 **UI/UX Design** — Turning complex problems into seamless digital experiences
+* ⚛️ **Frontend Development** — Building modern, component-driven interfaces with React & Next.js
+* 🧩 **Design Systems** — Creating consistent, reusable components and scalable design frameworks
+* ⚡ **Performance Optimization** — Delivering fast, accessible, SEO-friendly web apps
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3, Sass
+**Frameworks & Libraries:** React, Next.js, Redux, Tailwind CSS, Framer Motion
+
+**Design Tools:** Figma, Illustrator
+
+**Version Control & Workflow:** Git, GitHub, Agile, CI/CD
+
+---
+
+### 🌍 What Drives Me
+
+I believe great front-end development is equal parts **aesthetics and engineering** — every pixel and line of code should serve a purpose.
+I thrive where **design thinking meets technical execution**, and I’m always learning to stay ahead of the curve.
+
+---
+
+### 📫 Let’s Connect
+
+💌 [Email Me](hmiol5577@gmail.com)
+🌐 [LinkedIn](www.linkedin.com/in/hiryakos-molla-5aa5762aa)
+
+---
+
+### ⚡ Fun Fact
+
+I design interfaces the way I code — minimal, intentional, and human-centered.
+
+
