@@ -21,8 +21,6 @@ I specialize in building **scalable, responsive applications** using **React.js*
 **Frameworks & Libraries:** React, Next.js, Redux, Tailwind CSS, Framer Motion
 
 **Design Tools:** Figma, Illustrator and Rive
-
-**Version Control & Workflow:** Git, GitHub, Agile, CI/CD
 ---
 💌 [Email Me](hmiol5577@gmail.com)
 🌐 [LinkedIn](www.linkedin.com/in/hiryakos-molla-5aa5762aa)
