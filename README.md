@@ -20,7 +20,7 @@ I specialize in building **scalable, responsive applications** using **React.js*
 **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3, Sass
 **Frameworks & Libraries:** React, Next.js, Redux, Tailwind CSS, Framer Motion
 
-**Design Tools:** Figma, Illustrator
+**Design Tools:** Figma, Illustrator and Rive
 
 **Version Control & Workflow:** Git, GitHub, Agile, CI/CD
 ---
