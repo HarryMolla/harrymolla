@@ -1,6 +1,6 @@
 ## 👋 Hi there, I’m Hiryakos Molla
 
-### Frontend Developer | UI/UX Designer | Rive Specalist
+## Frontend Developer | UI/UX Designer | Rive Specalist
 
 I specialize in building **scalable, responsive applications** using **React.js**, **Next.js**, and modern front-end ecosystems — always with a strong eye for **user experience and visual detail**.
 
